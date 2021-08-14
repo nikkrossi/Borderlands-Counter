@@ -47,3 +47,8 @@ There are some options in the code you can change before running
     Xpos = 0  <- Higher number moves text to the right
     Ypos = 0  <- Higher number moves text down
 
+<h3>Install</h3>
+If the controls are fine for you, you can just download the .exe Here.
+
+Otherwise, you can download the .ahk file and run that.
+To run AHK file you must have auto hot key. You can find it here: https://www.autohotkey.com/
