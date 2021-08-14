@@ -6,11 +6,15 @@ Made mostly for Borderlands after watching Joltzdude139's counter (Yet his is on
 Its not perfect but good enough. I might eventually open it up if others want to contribute.
 
 <h3>How It Works</h3>
- It creates a GUI Window and makes the background, border, and menu bar transparent. Then it takes text with a RunNumber variable and incriments every time it is used. The window can only be moved using screen positions. Default is top Left corner (X0 Y0).
+ It creates a GUI Window Always On Top and makes the background, border, and menu bar transparent. Then it takes text with a RunNumber variable and incriments every time it is used. The window can only be moved using screen positions. Default is top Left corner (X0 Y0).
  
 <h2> Version 1 </h2>
 
+![Version 1](Images/Version1.png)
+
 <h2> Version 1.1 </h2>
+
+![Version 1.1](Images/Version1.1.png)
 
 <h3>Controls</h3>
 
@@ -48,7 +52,11 @@ There are some options in the code you can change before running
     Ypos = 0  <- Higher number moves text down
 
 <h3>Install</h3>
-If the controls are fine for you, you can just download the .exe Here.
+If the controls are fine for you, you can just download the .exe. 
+
+ [Version1](https://github.com/nikkrossi/Borderlands-Counter/blob/main/Borderlands_Counter.exe)
+ 
+ [Version1.1](https://github.com/nikkrossi/Borderlands-Counter/blob/main/Borderlands_Counter1.1.exe)
 
 Otherwise, you can download the .ahk file and run that.
 To run AHK file you must have auto hot key. You can find it here: https://www.autohotkey.com/
