@@ -18,10 +18,13 @@ Its not perfect but good enough. I might eventually open it up if others want to
 
 <h3>Controls</h3>
 
-NumberPad0 - Brings up window and adds 1 to run counter (Can be changed)
-NumberPad1 - Resets counter to 0 (Can be changed)
-Control + NumberPad0 - Hides Window (Can be changed)
-Control + Alt + NumberPad0 - Closes the program (Can be changed)
+NumberPad0 - Brings up window and adds 1 to run counter (Can be changed) 
+
+NumberPad1 - Resets counter to 0 (Can be changed) 
+
+Control + NumberPad0 - Hides Window (Can be changed) 
+
+Control + Alt + NumberPad0 - Closes the program (Can be changed) 
 
 <h3>Changing Controls</h3>
 To change controls go to where the begining of the hotkey is and change to what you want.
