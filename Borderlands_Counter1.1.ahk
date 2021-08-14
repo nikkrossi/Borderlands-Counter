@@ -24,8 +24,8 @@ size = 40
 TextColor = ff7f00
 
 ;Position on screen, Default Top Left X0 Y0
-Xpos = -40
-Ypos = -30
+Xpos = 0
+Ypos = 0
 
 ; Number of farming runs; Do not change
 RunNumber = 0
